@@ -38,6 +38,7 @@ CLAW-INIT/
 ├── CLI-WORKFLOW.md          # CLI 工作流
 ├── SECURITY.md              # 安全规范
 ├── BEST-PRACTICES.md        # 最佳实践
+├── AGENT-COLLABORATION.md   # 多 Agent 协作细则
 ├── USAGE.md                # 使用说明
 └── templates/              # 交付物模板与知识库结构
 ```
