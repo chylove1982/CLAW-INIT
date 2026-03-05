@@ -31,7 +31,9 @@ CLAW-INIT/
 │   ├── .openclaw/           # OpenClaw 工作区模板
 │   └── docs/                # 文档体系模板
 ├── ANALYSIS.md             # 对 claude-init 的深度分析
-└── OPENCLAW_PLAN.md        # OpenClaw 版本方案设计
+├── OPENCLAW_PLAN.md        # OpenClaw 版本方案设计
+├── CLAW-AGENT-CLUSTER.md   # OpenClaw 智能体集群方案
+└── USAGE.md                # 使用说明
 ```
 
 ## 版本规划
