@@ -33,7 +33,10 @@ CLAW-INIT/
 ├── ANALYSIS.md             # 对 claude-init 的深度分析
 ├── OPENCLAW_PLAN.md        # OpenClaw 版本方案设计
 ├── CLAW-AGENT-CLUSTER.md   # OpenClaw 智能体集群方案
-└── USAGE.md                # 使用说明
+├── PROCESS.md              # B2B 开发流程
+├── CLAW-CONFIG-RECOMMENDATION.md # CLAW 配置建议
+├── USAGE.md                # 使用说明
+└── templates/              # 交付物模板与知识库结构
 ```
 
 ## 版本规划
