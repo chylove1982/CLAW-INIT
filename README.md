@@ -35,6 +35,9 @@ CLAW-INIT/
 ├── CLAW-AGENT-CLUSTER.md   # OpenClaw 智能体集群方案
 ├── PROCESS.md              # B2B 开发流程
 ├── CLAW-CONFIG-RECOMMENDATION.md # CLAW 配置建议
+├── CLI-WORKFLOW.md          # CLI 工作流
+├── SECURITY.md              # 安全规范
+├── BEST-PRACTICES.md        # 最佳实践
 ├── USAGE.md                # 使用说明
 └── templates/              # 交付物模板与知识库结构
 ```
